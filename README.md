@@ -1,7 +1,7 @@
 # WeatherChatBot
 
 ## Description
-This Project uses groupMe as a front-end for my bot that returns weahther data from Open Weather Map API based on commands imputed by the user.
+This Project uses groupMe as a front-end for my bot that returns weather data from Open Weather Map API based on commands imputed by the user.
 
 <p align="center">
   <img width="300" src=https://github.com/SamuelPetrucci/WeatherChatBot/blob/main/Weatherbot.gif />
